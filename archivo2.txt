@@ -1,0 +1,5 @@
+Continue the operation in progress using the information in 
+linea 2
+linea 3
+linea 4
+
